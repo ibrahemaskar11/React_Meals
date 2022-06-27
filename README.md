@@ -1,4 +1,4 @@
-#React Meals
+# React Meals
 
 React Meals is a simple food dilevry app made up by react and connected to firebase to fetch meals or to send orders
 
